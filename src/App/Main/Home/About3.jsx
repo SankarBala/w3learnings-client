@@ -1,7 +1,7 @@
 import React from "react";
 
-import About3_pic from "./../../assets/img/gallery/about3.png";
-import Right_icon from "./../../assets/img/icon/right-icon.svg";
+import About3_pic from "./../../../assets/img/gallery/about3.png";
+import Right_icon from "./../../../assets/img/icon/right-icon.svg";
 
 
 

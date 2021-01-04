@@ -1,8 +1,8 @@
 import React from "react";
 
-import About_pic from "./../../assets/img/icon/about.svg";
-import Topic1 from "./../../assets/img/gallery/topic1.webp";
-import Right_icon from "./../../assets/img/icon/right-icon.svg";
+import About_pic from "./../../../assets/img/icon/about.svg";
+import Topic1 from "./../../../assets/img/gallery/topic1.webp";
+import Right_icon from "./../../../assets/img/icon/right-icon.svg";
 
 const About1 = () => {
     return (

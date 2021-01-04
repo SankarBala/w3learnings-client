@@ -1,13 +1,13 @@
 import React from "react";
 
-import Topic1 from "./../../assets/img/gallery/topic1.webp";
-import Topic2 from "./../../assets/img/gallery/topic2.webp";
-import Topic3 from "./../../assets/img/gallery/topic3.webp";
-import Topic4 from "./../../assets/img/gallery/topic4.webp";
-import Topic5 from "./../../assets/img/gallery/topic5.webp";
-import Topic6 from "./../../assets/img/gallery/topic6.webp";
-import Topic7 from "./../../assets/img/gallery/topic7.webp";
-import Topic8 from "./../../assets/img/gallery/topic8.webp";
+import Topic1 from "./../../../assets/img/gallery/topic1.webp";
+import Topic2 from "./../../../assets/img/gallery/topic2.webp";
+import Topic3 from "./../../../assets/img/gallery/topic3.webp";
+import Topic4 from "./../../../assets/img/gallery/topic4.webp";
+import Topic5 from "./../../../assets/img/gallery/topic5.webp";
+import Topic6 from "./../../../assets/img/gallery/topic6.webp";
+import Topic7 from "./../../../assets/img/gallery/topic7.webp";
+import Topic8 from "./../../../assets/img/gallery/topic8.webp";
 
 
 const Topic = () => {

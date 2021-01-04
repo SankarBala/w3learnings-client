@@ -1,4 +1,4 @@
-import {createStore} from "redux";
+import { createStore } from "redux";
 import CombinedReducer from "./combinedReducers";
 import InitialStates from "./initialStates";
 

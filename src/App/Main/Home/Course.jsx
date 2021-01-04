@@ -1,6 +1,6 @@
 import React from "react";
 
-import Featured2 from "./../../assets/img/gallery/featured2.png";
+import Featured2 from "./../../../assets/img/gallery/featured2.png";
 
 const Course = () => {
   return (

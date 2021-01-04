@@ -1,8 +1,8 @@
 import React from "react";
 
-import Icon1 from "./../../assets/img/icon/icon1.svg";
-import Icon2 from "./../../assets/img/icon/icon2.svg";
-import Icon3 from "./../../assets/img/icon/icon3.svg";
+import Icon1 from "./../../../assets/img/icon/icon1.svg";
+import Icon2 from "./../../../assets/img/icon/icon2.svg";
+import Icon3 from "./../../../assets/img/icon/icon3.svg";
 
 const Service = () => {
   return (

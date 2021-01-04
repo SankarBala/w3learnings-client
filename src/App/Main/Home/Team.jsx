@@ -1,9 +1,9 @@
 import React from "react";
 
-import Team1 from "./../../assets/img/gallery/team1.png";
-import Team2 from "./../../assets/img/gallery/team2.png";
-import Team3 from "./../../assets/img/gallery/team3.png";
-import Team4 from "./../../assets/img/gallery/team4.png";
+import Team1 from "./../../../assets/img/gallery/team1.png";
+import Team2 from "./../../../assets/img/gallery/team2.png";
+import Team3 from "./../../../assets/img/gallery/team3.png";
+import Team4 from "./../../../assets/img/gallery/team4.png";
 
 const Team = () => {
   return (
